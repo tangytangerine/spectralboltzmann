@@ -1,0 +1,1 @@
+Implementation of a spectral algorithm for computing the Boltzmann collision integral. This algorithm utilises a Fourier transform of the integral to take advantage of the integral kernel's convolution structure and deterministically compute the full Boltzmann equation.
